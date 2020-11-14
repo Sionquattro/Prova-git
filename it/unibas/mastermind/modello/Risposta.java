@@ -18,4 +18,8 @@ public class Risposta {
 		return this.palliniBianchi;
 	}
 
+	public String prova(){
+		return "prova";
+	}
+
 }
