@@ -1,0 +1,1 @@
+java -cp .;c:\lib\slf4j-api-1.7.7.jar;c:\lib\junit.jar;c:\lib\logback-classic-1.1.2.jar;c:\lib\logback-core-1.1.2.jar junit.swingui.TestRunner it.unibas.mastermind.test.TestOperatore
